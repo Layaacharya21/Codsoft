@@ -1,7 +1,7 @@
 import random
 import array as arr
 
-len=int(input("Enter lemgth of the password: "))
+len=int(input("Enter length of the password: "))
 
 digits=['0','1','2','3','4','5','6','7','8','9']
 lcase = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 
